@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.munu
+{
+    background-image:url(t.jpg); 
+
+height: 65vh;
+background-size: cover;
+background-position: center;
+
+}
+
+.ogo img
+{
+    float: left;
+    padding-top: 5vh;
+}
+.liku
+{
+    float: right; 
+    padding: 20px;
+    position:relative;
+    padding-top: 5vh;
+}
+.liku h1
+{
+    top: 25vh;
+    font-size: 25px;
+    color:whitesmoke;
+}
+.fa
+{
+    margin-right: 8px;
+}
+.munu h2{
+    padding-top:10vh ;
+    text-align: center;
+    font-size:300%;
+    color: whitesmoke;
+    padding-left: 50px;
+}
+h4{
+    text-align: center;
+    position: absolute;
+   
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 48%;
+    font-size: 25px;
+    color: #fff;
+}
+.exp{
+    text-align: center;
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 58%;
+    width: 120px;
+    height: 40px;
+    background: #e73827;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.exp:hover{
+    box-shadow: 0 0 8px 0 #e73827;
+}
