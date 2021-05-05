@@ -16,8 +16,8 @@ height: 69vh;
 width: 45vh;
 background:transparent;
 position:relative ;
-bottom:483px;
-right:1%;
+bottom:435px;
+right:2%;
 
 }
 .ad
@@ -39,7 +39,7 @@ right:1%;
 .a{
     position: relative;
     top: 120px;
-    left: 70px;
+    left: 60px;
 }
 .a a
 {
@@ -86,7 +86,7 @@ right:1%;
 {
     position: relative;
     top: 110px;
-    left: 130px; 
+    left: 120px; 
 }
 .b a{
     text-decoration:none;
