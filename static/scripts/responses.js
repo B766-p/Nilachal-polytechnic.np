@@ -4,9 +4,8 @@ function getBotResponse(input) {
         return "paper";
     } else if (input == "paper") {
         return "scissors";
-    } else if (input == "Admission" ,"admission") {
-        return( window.location="file:///C:/Users/oiu/Desktop/debosati/collage%20manage%20ment%20system/Admission.html")  ;
-       
+    } else if (input == "scissors") {
+        return "rock";
     }
 
     // Simple responses

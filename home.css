@@ -77,12 +77,11 @@ overflow: hidden;
 {
     height: 125vh;
     width: 100%;
-
     background-image: url(pleacement.jpg);
-    
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
+    overflow: hidden;
     transition: 0.5s;
 }
 .ment
@@ -365,7 +364,7 @@ font-size: 40px;
   .hk
 {
  
-  padding-left: 40px;
+  padding-left: 110px;
   position:relative;
   padding-top: 10px;
   color: black;
@@ -622,4 +621,27 @@ border: transparent;
   
   ::-ms-input-placeholder { 
    color: whitesmoke;
+  }
+  .space
+  {
+    height: 550px;
+    width: -12px;
+    background-color: white;
+    position:relative;
+    left: 70px;
+    margin-left:1px ;
+    margin-top: 20px;
+    border: transparent;
+  }
+  .dep1
+  {
+    height: 550px;
+    width: 350px;
+    background-color: white;
+    position:relative;
+    left: 70px;
+    margin-left:210px ;
+    margin-top: 20px;
+    border: transparent;
+    box-shadow: 2px 13px 25px -10px rgba(0,0,0,0.75);
   }
